@@ -1,2 +1,2 @@
 # YOUTUBE-CLONE-REACT-
-Once you start tracking you can't stop doing it.
+Just a skeleton of one of the greatest social platform of all time.
